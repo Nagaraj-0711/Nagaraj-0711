@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagaraj--1107-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaraj-1107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagarajan-m-24715a433-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarajan-m-24715a433)
 [![GitHub](https://img.shields.io/badge/GitHub-nagaraj1107-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nagaraj-0711)
 [![Gmail](https://img.shields.io/badge/Gmail-nagarajanmahendiran7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajanmahendiran7@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-9150489913-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919150489913)
@@ -96,9 +96,9 @@ me.say_hi()
 
 | Degree | Institution | Score | Year |
 |:--|:--|:--:|:--:|
-| 🎓 B.Tech – AI & Data Science | Arunai Engineering College | CGPA: 7.6 | 2026 |
-| 🏫 Diploma – Electrical & Electronics | Kumaran Polytechnic College | 96% | 2023 |
-| 🏫 Higher Secondary (12th) | SRGDS Higher Secondary School | 84% | 2021 |
+| 🎓 B.Tech – AI & Data Science | Arunai Engineering College | CGPA: 7.3 | 2026 |
+| 🏫 Diploma – Electrical & Electronics | Kumaran Polytechnic College | 92% | 2023 |
+| 🏫 Higher Secondary (12th) | SRGDS Higher Secondary School | 70% | 2021 |
 
 ---
 
